@@ -2,10 +2,9 @@
 
 # 🦈 Data Cleaning Project 🦈
 
-Primero que todo buenos días
 
 ![shark](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/shark.gif)
-<sub>Beware of the shark.</sub>
+Beware of the shark
 
 
 ## Goal 🚀
@@ -21,8 +20,8 @@ The repository is divided into several folders containing the following files:
 
 - **Folder src:**
 
-   -**attacks**: raw dataset.
-   -**clean_shark.csv**: dataset after cleaning.
+   - **attacks**: raw dataset.
+   - **clean_shark.csv**: dataset after cleaning.
 
 - **Folder notebook:**
 
@@ -48,27 +47,28 @@ The repository is divided into several folders containing the following files:
 **2.Explore and clean data**
 
 ![batman](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/batman.gif)
-<sub>My mood cleaning the Dataset.</sub>
+My mood cleaning the Dataset
+
 
 **3.Data visualization and conlusions**
 
  O1:  It is unlikely to die if you are attacked by a shark.
 
 ![Graph 1](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph1.png)
-<sub>Graph 1.</sub>
+Graph 1. Total cases by activity
 
 ![Graph 2](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph2.png)
-<sub>Graph 2.</sub>
+Graph 2. Death ratio depending on the activity
 
  O2:  Men cause more accidents intentionally than women
  
 ![Graph 3](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph3.png)
-<sub>Graph 3.</sub>
+Graph 3. Attacks by gender
 
  O3. East coast has massive incidents
 
 ![Graph 4](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph4.png)
-<sub>Graph 4.</sub>
+Graph 4. US sharks
 
 
 ## Libraries 📚
