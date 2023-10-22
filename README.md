@@ -4,7 +4,8 @@
 
 Primero que todo buenos días
 
-![Beware of the shark](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/shark.gif)
+![shark](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/shark.gif)
+<sub>Beware of the shark.</sub>
 
 
 ## Goal 🚀
@@ -20,8 +21,8 @@ The repository is divided into several folders containing the following files:
 
 - **Folder src:**
 
-   -**attacks**: raw dataset
-   -**clean_shark.csv**: dataset after cleaning
+   -**attacks**: raw dataset.
+   -**clean_shark.csv**: dataset after cleaning.
 
 - **Folder notebook:**
 
@@ -46,24 +47,28 @@ The repository is divided into several folders containing the following files:
 
 **2.Explore and clean data**
 
-![My mood cleaning the Dataset](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/batman.gif)
-
+![batman](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/batman.gif)
+<sub>My mood cleaning the Dataset.</sub>
 
 **3.Data visualization and conlusions**
 
  O1:  It is unlikely to die if you are attacked by a shark.
 
 ![Graph 1](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph1.png)
+<sub>Graph 1.</sub>
 
 ![Graph 2](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph2.png)
+<sub>Graph 2.</sub>
 
  O2:  Men cause more accidents intentionally than women
  
 ![Graph 3](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph3.png)
+<sub>Graph 3.</sub>
 
  O3. East coast has massive incidents
 
 ![Graph 4](https://github.com/charlieciordia/01-w2-pandas-Carlos-Ciordia/blob/main/img/graph4.png)
+<sub>Graph 4.</sub>
 
 
 ## Libraries 📚
