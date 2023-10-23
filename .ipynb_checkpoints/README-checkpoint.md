@@ -9,9 +9,9 @@ Beware of the shark⬇️
 
 ## Goal 🚀
 
-This repository shows a data cleaning project using different methods, as well as the visualisation of results. 
+This repository shows a data cleansing project using different methods, as well as the visualisation of results. 
 
-The theme is "Shark Attacks" whereas the data has been obtained from [Kaggle](https://www.kaggle.com/teajay/global-shark-attacks)
+The theme is "Shark Attacks" and the data has been obtained from [Kaggle](https://www.kaggle.com/teajay/global-shark-attacks)
 
 
 ## Structure 📂
@@ -25,9 +25,9 @@ The repository is divided into several folders containing the following files:
 
 - **Folder notebook:**
 
-   - **main.ipynb**: this file is the playground.
-   - **Limpieza de datos.ipynb**: the file where the cleaning methods are applied.
-   - **Visualización .ipynb**: this is the file to visualize the graphics, using seaborn, after cleaning the data. 
+   - **main.ipynb**: in this file all the work is done.
+   - **Limpieza de datos.ipynb**: in this file the cleaning methods are applied. The functions that are applied are obtained from the file.
+   - **Visualización .ipynb**: in this file data is visualized by means of graphics, using seaborn. 
 
 - **Folder img:**
    - the folder to save memes and graphs from the data analysis.
@@ -39,9 +39,9 @@ The repository is divided into several folders containing the following files:
 
 **O1:** Death ratio depending on the activity.
 
-**O2:** Percentage distribution of attack type by gender.
+**O2:** Percentage distribution of attack type by gender
 
-**O3:** US Sharks attacks by activity and area.
+**O3:** US Sharks attacks by activity and area
 
 
 **2.Explore and clean data**
